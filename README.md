@@ -1,6 +1,7 @@
 # my-first-github
 tech-doc-tranning
-##second heading
+
+## second heading
 
 *one
 *two
